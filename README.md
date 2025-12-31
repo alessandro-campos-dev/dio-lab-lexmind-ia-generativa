@@ -24,7 +24,7 @@ O cliente que tem um empreendimento de automação com n8n nos procurou para exe
 - Nicepage 
 - HTML / CSS / JS
 
-### Material
+### Material Final
 - Nome Escolhido "Lexmind Automação Inteligente"
 - [Logomarca](/identidade-visual/logo/1-logomarca-lexmind-principal.png)
 - [Apresentação Institucional]([/exemplos/PODCAST.md](https://gamma.app/docs/SOBRE-A-LEXMIND-naiposhozve0c5q?mode=present#card-go4aibuxy7zl4zg))
