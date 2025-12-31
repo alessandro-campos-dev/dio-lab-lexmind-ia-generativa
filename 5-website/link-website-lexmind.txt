@@ -1,0 +1,3 @@
+# Clique no link abaixo para acessar o Website da Lexmind
+
+- Website Lexmind(https://lexmind.yahwebsolution.com.br/)
