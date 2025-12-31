@@ -33,5 +33,5 @@ Demonstrar domínio técnico, estratégico e criativo no uso de IA aplicada a ne
 ## 🚀 Resultados
 O cliente ficou extremamente satisfeito com o resultado final
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 O uso das IA(s) generativas está cada vez mais presente em nossas vidas, e esse projeto é um exemplo de como podemos nos beneficiar economizando tempo, dinheiro e trabalho.
