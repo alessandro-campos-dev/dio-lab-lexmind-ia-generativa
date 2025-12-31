@@ -1,4 +1,4 @@
-```markdown
+
 # LexMind – Automação Inteligente
 
 A LexMind é uma empresa criada com apoio de Inteligência Artificial Generativa,
