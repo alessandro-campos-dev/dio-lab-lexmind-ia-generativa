@@ -26,8 +26,8 @@ O cliente que tem um empreendimento de automação com n8n nos procurou para exe
 
 ### Material Final
 - Nome Escolhido "Lexmind Automação Inteligente"
-- [Logomarca](/identidade-visual/logo/1-logomarca-lexmind-principal.png)
-- [Apresentação Institucional]([/exemplos/PODCAST.md](https://gamma.app/docs/SOBRE-A-LEXMIND-naiposhozve0c5q?mode=present#card-go4aibuxy7zl4zg))
+- [Logomarca](3-identidade-visual/logo-fundo-transparente/1-logomarca-lexmind-principal-transparente.png)
+- [Apresentação Institucional](https://gamma.app/docs/SOBRE-A-LEXMIND-naiposhozve0c5q?mode=present#card-go4aibuxy7zl4zg)
 - [Website Institucional )](https://lexmind.yahwebsolution.com.br)
 
 ## 📂 Estrutura
